@@ -1,0 +1,588 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/johnn/Documents/School/DDesign/Lab6
+Ealu
+Z0 w1670361178
+Z1 DPx4 work 8 mips_lib 0 22 P=>_JKI2en0Y3AkoL1OMX0
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/johnn/Documents/School/DDesign/MIPS
+Z6 8C:/Users/johnn/Documents/School/DDesign/MIPS/ALU.vhd
+Z7 FC:/Users/johnn/Documents/School/DDesign/MIPS/ALU.vhd
+l0
+L6
+VNMVH;6Z]3KjWFDX?DVNak1
+!s100 lhW8^:cS[hKWlTBRW;SLP3
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1670438677
+!i10b 1
+Z10 !s108 1670438677.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/ALU.vhd|
+Z12 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/ALU.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+R4
+Z15 DEx4 work 3 alu 0 22 NMVH;6Z]3KjWFDX?DVNak1
+l26
+L22
+V2f5IaESVZkcQ1Ea0DlXc`0
+!s100 m4RPY^]KTQDUdakQ0X;9o1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealu_tb
+Z16 w1670356902
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/johnn/Documents/School/DDesign/MIPS/ALU_TB.vhd
+Z18 FC:/Users/johnn/Documents/School/DDesign/MIPS/ALU_TB.vhd
+l0
+L6
+V@QoLmD;adXgU<@];lnY6a0
+!s100 imOk[3GOdloFEmHUhIV771
+R8
+32
+Z19 !s110 1670438681
+!i10b 1
+Z20 !s108 1670438681.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/ALU_TB.vhd|
+Z22 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/ALU_TB.vhd|
+!i113 1
+R13
+R14
+Atb
+R15
+R1
+R2
+R3
+R4
+Z23 DEx4 work 6 alu_tb 0 22 @QoLmD;adXgU<@];lnY6a0
+l26
+L9
+Z24 VYg9G4Gzjb2EZ62F]Y_6M03
+Z25 !s100 LKebe1PBD:S:X?F3F0lD[1
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Ealucontrol
+Z26 w1670088926
+R1
+R2
+R3
+R4
+R5
+Z27 8C:/Users/johnn/Documents/School/DDesign/MIPS/ALUControl.vhd
+Z28 FC:/Users/johnn/Documents/School/DDesign/MIPS/ALUControl.vhd
+l0
+L6
+VNmaSLOESCgV;c^]lL?4550
+!s100 ]0?mTz0@B]C5cb6j_0C<a3
+R8
+32
+R9
+!i10b 1
+R10
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/ALUControl.vhd|
+Z30 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/ALUControl.vhd|
+!i113 1
+R13
+R14
+Aarch
+R1
+R2
+R3
+R4
+DEx4 work 10 alucontrol 0 22 NmaSLOESCgV;c^]lL?4550
+l19
+L18
+V<0_cUU=0JI3YchPj42E?i1
+!s100 Rh[j:_JdBf2z<6W7O8SJ21
+R8
+32
+R9
+!i10b 1
+R10
+R29
+R30
+!i113 1
+R13
+R14
+Econtroller
+Z31 w1670362382
+R1
+R2
+R3
+R4
+R5
+Z32 8C:/Users/johnn/Documents/School/DDesign/MIPS/Controller.vhd
+Z33 FC:/Users/johnn/Documents/School/DDesign/MIPS/Controller.vhd
+l0
+L6
+VOLbg9<2=DPzD0=Bo59[M:1
+!s100 fBXVXo@PAPLS3OGGJ@iz91
+R8
+32
+R9
+!i10b 1
+R10
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/Controller.vhd|
+Z35 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/Controller.vhd|
+!i113 1
+R13
+R14
+Aarch
+R1
+R2
+R3
+R4
+Z36 DEx4 work 10 controller 0 22 OLbg9<2=DPzD0=Bo59[M:1
+l38
+L30
+VM:EggXWdBfo3N?<EbcWI:3
+!s100 RLWh4Bb1iHT6gW_f9:[mO1
+R8
+32
+R9
+!i10b 1
+R10
+R34
+R35
+!i113 1
+R13
+R14
+Econtroller_tb
+Z37 w1670368120
+R1
+R2
+R3
+R4
+R5
+Z38 8C:/Users/johnn/Documents/School/DDesign/MIPS/Controller_TB.vhd
+Z39 FC:/Users/johnn/Documents/School/DDesign/MIPS/Controller_TB.vhd
+l0
+L6
+VF?6Wf2kCg:UQQ]z02iX6h3
+!s100 75XaVdX7b3HT3WNB63RlG1
+R8
+32
+R9
+!i10b 1
+R10
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/Controller_TB.vhd|
+Z41 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/Controller_TB.vhd|
+!i113 1
+R13
+R14
+Atb
+Z42 DEx4 work 9 top_level 0 22 Gg2_nI60:lMfHTo_bkg:_0
+R1
+R2
+R3
+R4
+DEx4 work 13 controller_tb 0 22 F?6Wf2kCg:UQQ]z02iX6h3
+l44
+L9
+Vi^loEA`XFZBR6:[IXkLLm3
+!s100 FMm_^JSQMfOo@P7eMW>cd2
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Edatapath
+Z43 w1670372412
+R1
+R2
+R3
+R4
+R5
+Z44 8C:/Users/johnn/Documents/School/DDesign/MIPS/Datapath.vhd
+Z45 FC:/Users/johnn/Documents/School/DDesign/MIPS/Datapath.vhd
+l0
+L6
+Vm<FcfQGH3NUb;J2WkccC^1
+!s100 <Sk;ILnjPJY1^ak6GRc<[1
+R8
+32
+R9
+!i10b 1
+R10
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/Datapath.vhd|
+Z47 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/Datapath.vhd|
+!i113 1
+R13
+R14
+Aarch
+R1
+R2
+R3
+R4
+Z48 DEx4 work 8 datapath 0 22 m<FcfQGH3NUb;J2WkccC^1
+l160
+L35
+VJeX7aP8?D<2U`GE;g6ZTF3
+!s100 :NPXI:VRF:l;_zENmE^2A3
+R8
+32
+R9
+!i10b 1
+R10
+R46
+R47
+!i113 1
+R13
+R14
+Edecode7seg
+Z49 w1669760863
+R2
+R3
+R4
+R5
+Z50 8C:/Users/johnn/Documents/School/DDesign/MIPS/decode7seg.vhd
+Z51 FC:/Users/johnn/Documents/School/DDesign/MIPS/decode7seg.vhd
+l0
+L5
+VQ8N[TNjRaQ]5J_5KAPhOT3
+!s100 a]IMzK1o<ofL_BHnnd4R@0
+R8
+32
+R9
+!i10b 1
+R10
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/decode7seg.vhd|
+Z53 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/decode7seg.vhd|
+!i113 1
+R13
+R14
+Aarch
+R2
+R3
+R4
+Z54 DEx4 work 10 decode7seg 0 22 Q8N[TNjRaQ]5J_5KAPhOT3
+l13
+L12
+VTWizkU?>5P^Z527m@YB0a0
+!s100 6KazoZ<N:c7UkfCe_GjIN0
+R8
+32
+R9
+!i10b 1
+R10
+R52
+R53
+!i113 1
+R13
+R14
+Edecoder7seg
+Z55 w1669139356
+R2
+R3
+R4
+R5
+R50
+R51
+l0
+L5
+V8MH>V8hK0Xg1Q26`3]Nmk2
+!s100 a]Nl>TK@?4<`2d@R?UEIX0
+R8
+32
+Z56 !s110 1669755701
+!i10b 1
+Z57 !s108 1669755701.000000
+R52
+R53
+!i113 1
+R13
+R14
+Aarch
+R2
+R3
+R4
+DEx4 work 11 decoder7seg 0 22 8MH>V8hK0Xg1Q26`3]Nmk2
+l13
+L12
+VILi?kOXfGOfb4HbJjjg8T2
+!s100 W@WL@nICI?c43n]h00b>^0
+R8
+32
+R56
+!i10b 1
+R57
+R52
+R53
+!i113 1
+R13
+R14
+Ememory
+Z58 w1670372106
+R1
+R2
+R3
+R4
+R5
+Z59 8C:/Users/johnn/Documents/School/DDesign/MIPS/MEMORY.vhd
+Z60 FC:/Users/johnn/Documents/School/DDesign/MIPS/MEMORY.vhd
+l0
+L6
+VbGIThoc1Ld5^Ge:SMLKFX2
+!s100 7z=B5CKLN7lPmTS5IIV5P3
+R8
+32
+R9
+!i10b 1
+R10
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/MEMORY.vhd|
+Z62 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/MEMORY.vhd|
+!i113 1
+R13
+R14
+Aarch
+R1
+R2
+R3
+R4
+DEx4 work 6 memory 0 22 bGIThoc1Ld5^Ge:SMLKFX2
+l57
+L23
+VNIZgH9>gVdjZNk5XCG67U3
+!s100 oWH7d91NKBlHlE^HW[3k]3
+R8
+32
+R9
+!i10b 1
+R10
+R61
+R62
+!i113 1
+R13
+R14
+Pmips_lib
+R3
+R4
+w1670257877
+R5
+8C:/Users/johnn/Documents/School/DDesign/MIPS/MIPS_LIB.vhd
+FC:/Users/johnn/Documents/School/DDesign/MIPS/MIPS_LIB.vhd
+l0
+L4
+VP=>_JKI2en0Y3AkoL1OMX0
+!s100 C4N^ofj62@X7Dd[JUkD:k3
+R8
+32
+R9
+!i10b 1
+R10
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/MIPS_LIB.vhd|
+!s107 C:/Users/johnn/Documents/School/DDesign/MIPS/MIPS_LIB.vhd|
+!i113 1
+R13
+R14
+Emips_ram
+Z63 w1670369654
+Z64 DPx9 altera_mf 20 altera_mf_components 0 22 gV:l9C^?PSb6]b5V?_jR@3
+R3
+R4
+R5
+Z65 8C:/Users/johnn/Documents/School/DDesign/MIPS/MIPS_RAM.vhd
+Z66 FC:/Users/johnn/Documents/School/DDesign/MIPS/MIPS_RAM.vhd
+l0
+L42
+VmH1hMB@Mb97SbjN^APmN91
+!s100 J4UlD58l;2_Jk@CTSe`<o1
+R8
+32
+Z67 !s110 1670370525
+!i10b 1
+Z68 !s108 1670370525.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/MIPS_RAM.vhd|
+Z70 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/MIPS_RAM.vhd|
+!i113 1
+R13
+R14
+Asyn
+R64
+R3
+R4
+DEx4 work 8 mips_ram 0 22 mH1hMB@Mb97SbjN^APmN91
+l58
+L54
+VV5WV54W0MVK?T`oG_ioiV2
+!s100 TR6GQThBlGHl:KVAZMb903
+R8
+32
+R67
+!i10b 1
+R68
+R69
+R70
+!i113 1
+R13
+R14
+Ereg
+Z71 w1670357790
+R1
+R2
+R3
+R4
+R5
+Z72 8C:/Users/johnn/Documents/School/DDesign/MIPS/reg.vhd
+Z73 FC:/Users/johnn/Documents/School/DDesign/MIPS/reg.vhd
+l0
+L6
+Vg@B[GR^MnYhZ9c]J[de440
+!s100 R:`bd2>4d=@H:WWV<l7gj3
+R8
+32
+Z74 !s110 1670438680
+!i10b 1
+Z75 !s108 1670438680.000000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/reg.vhd|
+Z77 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/reg.vhd|
+!i113 1
+R13
+R14
+Aarch
+R1
+R2
+R3
+R4
+DEx4 work 3 reg 0 22 g@B[GR^MnYhZ9c]J[de440
+l18
+L17
+VbBWY]_o>jjTLMOc8BPJ@m0
+!s100 4JkG;=BDlfY@ggJ93cTYj2
+R8
+32
+R74
+!i10b 1
+R75
+R76
+R77
+!i113 1
+R13
+R14
+Eregister_file
+Z78 w1670097905
+R1
+R2
+R3
+R4
+R5
+Z79 8C:/Users/johnn/Documents/School/DDesign/MIPS/register_file.vhd
+Z80 FC:/Users/johnn/Documents/School/DDesign/MIPS/register_file.vhd
+l0
+L6
+Vc9ISAF`5c_@5@z[OSDbNo1
+!s100 L5S;:hPWQ[ChlhG@o4lKd0
+R8
+32
+R19
+!i10b 1
+R20
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/register_file.vhd|
+Z82 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/register_file.vhd|
+!i113 1
+R13
+R14
+Aasync_read
+R1
+R2
+R3
+R4
+DEx4 work 13 register_file 0 22 c9ISAF`5c_@5@z[OSDbNo1
+l25
+L22
+VIYl3BJSCoIPIjZnR_PGmE0
+!s100 <e7_f4;W4a_3[5[<9EJ5b0
+R8
+32
+R19
+!i10b 1
+R20
+R81
+R82
+!i113 1
+R13
+R14
+Etop_level
+Z83 w1670372439
+R1
+R3
+R4
+R5
+Z84 8C:/Users/johnn/Documents/School/DDesign/MIPS/top_level.vhd
+Z85 FC:/Users/johnn/Documents/School/DDesign/MIPS/top_level.vhd
+l0
+L5
+VGg2_nI60:lMfHTo_bkg:_0
+!s100 ^>^[2kR7k@nd>QOXhiV4O3
+R8
+32
+R9
+!i10b 1
+R10
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/johnn/Documents/School/DDesign/MIPS/top_level.vhd|
+Z87 !s107 C:/Users/johnn/Documents/School/DDesign/MIPS/top_level.vhd|
+!i113 1
+R13
+R14
+Astr
+R54
+R36
+R2
+R48
+R1
+R3
+R4
+R42
+l49
+L25
+VG`kT@^8HUZM9l??VVdV;Y2
+!s100 jLK0Nlfm8?14ia_Iih>h[3
+R8
+32
+R9
+!i10b 1
+R10
+R86
+R87
+!i113 1
+R13
+R14

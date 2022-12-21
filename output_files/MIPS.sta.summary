@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk50MHz'
+Slack : -13.573
+TNS   : -10213.841
+
+Type  : Slow 1200mV 85C Model Setup 'Controller:U_Controller|curState.DELAY'
+Slack : -2.061
+TNS   : -8.748
+
+Type  : Slow 1200mV 85C Model Hold 'clk50MHz'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Controller:U_Controller|curState.DELAY'
+Slack : 0.996
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk50MHz'
+Slack : -3.000
+TNS   : -1920.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Controller:U_Controller|curState.DELAY'
+Slack : 0.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk50MHz'
+Slack : -12.303
+TNS   : -9346.569
+
+Type  : Slow 1200mV 0C Model Setup 'Controller:U_Controller|curState.DELAY'
+Slack : -1.792
+TNS   : -7.659
+
+Type  : Slow 1200mV 0C Model Hold 'clk50MHz'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Controller:U_Controller|curState.DELAY'
+Slack : 0.930
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk50MHz'
+Slack : -3.000
+TNS   : -1919.466
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Controller:U_Controller|curState.DELAY'
+Slack : 0.479
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk50MHz'
+Slack : -5.215
+TNS   : -3848.605
+
+Type  : Fast 1200mV 0C Model Setup 'Controller:U_Controller|curState.DELAY'
+Slack : -0.313
+TNS   : -1.162
+
+Type  : Fast 1200mV 0C Model Hold 'clk50MHz'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Controller:U_Controller|curState.DELAY'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk50MHz'
+Slack : -3.000
+TNS   : -1408.164
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Controller:U_Controller|curState.DELAY'
+Slack : 0.333
+TNS   : 0.000
+
+------------------------------------------------------------
